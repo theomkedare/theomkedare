@@ -1,164 +1,180 @@
-# ─── ❖ ─── ✦ ─── ❖ ───
 
-#  OM KEDARE | FULL-STACK ENGINEER & AI ARCHITECT
+<div align="center">
 
-# ─── ❖ ─── ✦ ─── ❖ ───
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172B3A,100:00C9A7&height=180&section=header&text=OM%20KEDARE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Dreamer&descAlignY=60&descSize=16" width="100%" />
 
+<a href="https://omkedare.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Exploring+Artificial+Intelligence;Building+Things+That+Matter;Learning+Something+New+Every+Day" alt="Typing SVG" />
+</a>
 
+**a wanna be developer**
 
-<p align="left">
+[Portfolio](https://omkedare.dev) · [GitHub](https://github.com/theomkedare)
 
-  <a href="https://omkedare.dev"><img src="[https://img.shields.io/badge/Portfolio-omkedare.dev-000000?style=flat-square&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Portfolio-omkedare.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)" alt="Portfolio" /></a>
-
-  <a href="https://linkedin.com/in/omkedare"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
-
-  <a href="mailto:omkedare.work@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)" alt="Gmail" /></a>
-
-</p>
-
-
-
-### ⚡ System Overview
-
-I am a B.Tech Computer Science & Engineering student focused on engineering high-performance, production-grade systems, advanced web architectures, and autonomous AI agents. I bridge the gap between pixel-perfect fluid interfaces and complex backend data flows. Driven by latency optimization, system modularity, and continuous deployment.
-
-
+</div>
 
 ---
 
+## `01` — SYSTEM OVERVIEW
 
-
-## 🛠️ Complete Technical Matrix
-
-
-
-```text
-
-💼 Language & Runtime │ JavaScript (ES6+) • TypeScript • Python (3.x) • C++ • SQL
-
-🚀 Core Architecture │ Next.js 14 (App Router) • React.js • Node.js • Express.js
-
-🗄️ Database & Cache   │ MongoDB (Mongoose) • PostgreSQL • Redis
-
-🎨 Design & Motion   │ Tailwind CSS • Framer Motion • Micro-interactions • UI/UX Precision
-
-🤖 AI & Automation   │ Google GenAI SDK (Gemini 2.5) • Agentic Workflows • LLM Orchestration
-
-🔮 Advanced Computing│ Digital Image Processing • Spatial Filtering • GLCM Texture Analysis
-
-🛠️ DevOps & Tools    │ Git & GitHub • Linux CLI • Docker • Railway Cloud • Vercel
-
+```yaml
+name: Om Kedare
+role: Full-Stack Developer
+focus:
+  - Web Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Engineering
+currently: Building and experimenting
+location: Pune, India
+status: Always Learning
 ```
 
+I'm a B.Tech Computer Science & Engineering student at D.Y. Patil International University, Pune.
 
+I enjoy building web applications, experimenting with machine learning, and turning ideas into working products.
 
----
-
-
-
-## 🚀 Active Production Deployments & Systems
-
-
-
-### 🌐 [omkedare.dev](https://omkedare.dev) — Production Identity Platform
-
-> My central digital headquarters. A high-performance, fluid developer portfolio engineered to demonstrate complex layout stabilities, micro-interactions, and instant serverless rendering.
-
-*   **Architecture:** Next.js 14, Tailwind CSS, Framer Motion optimization loops.
-
-*   **Performance Metrics:** Server-side optimized images, asynchronous asset loading, and absolute structural layout stability under fluid animations.
-
-
-
-### 🤖 ommmchatbot — Contextual Autonomous Telegram Agent
-
-> A production-grade conversational AI companion utilizing bleeding-edge generative models, fully optimized for low-latency asynchronous payload execution and continuous state management.
-
-*   **Core Engine:** Migrated to the modern `google-genai` SDK orchestrating Gemini 2.5 Flash.
-
-*   **Infrastructure:** Python wrapper containerized and linked to an automated CI/CD pipeline hosted entirely on Railway.
-
-*   **Live Instance:** [Interact with Agent ↗](https://t.me/ommmchatbot)
-
-
-
-### 🛡️ CSnotes — Enterprise Academic Distribution Network
-
-> A secure, authenticated resource allocation network built specifically for engineering students to securely stream, index, and query university-certified study materials.
-
-*   **Security Protocol:** Hardened Google OAuth loop strictly restricted to authorized university organization domains.
-
-*   **Data Pipeline:** Aggregated MongoDB collections structured for immediate searching, zero-leak access tokens, and serverless endpoint processing.
-
-*   **Access Tier:** `[Repository Private — Distributed Under Institutional Access Controls]`
-
-
+- Interested in full-stack development and backend engineering.
+- Exploring AI agents and intelligent systems.
+- Passionate about building practical software.
+- Learning through experimentation and real-world projects.
 
 ---
 
+## `02` — TECHNOLOGY STACK
 
+<div align="center">
 
-## 📊 System Diagnostics & Contribution Analytics
+### Languages
 
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark" />
 
+### Frontend Development
 
-<div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
-  <img src="[https://github-readme-stats.vercel.app/api?username=theomkedare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=theomkedare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)" alt="GitHub Stats" />
+### Backend & Databases
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,postgres,supabase&theme=dark" />
 
+### Tools & Platforms
 
-
-<br/>
-
-
-
-<div>
-
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=theomkedare&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=theomkedare&theme=tokyonight&hide_border=true)" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode&theme=dark" />
 
 </div>
-
-
-
-<br/>
-
-
-
-<div>
-
-  <img src="[https://github-profile-trophy.vercel.app/?username=theomkedare&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12&column=5](https://github-profile-trophy.vercel.app/?username=theomkedare&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12&column=5)" alt="Trophies" />
-
-</div>
-
-
 
 ---
 
+## `03` — FEATURED PROJECTS
 
+### CSNotes
 
-## ⚙️ Workflow Loop
+A centralized academic resource platform for university students.
 
-```bash
+- Domain-restricted student authentication.
+- Subject-wise and unit-wise study materials.
+- Searchable academic resources.
+- In-browser document previews.
 
-while [ "$ideas" == "infinite" ]; do
+[Explore CSNotes](https://csnotes.omkedare.dev)
 
-    code --optimize
+### TrafficMine
 
-    git commit -m "feat: engineered another high-performance system"
+Traffic Violation Analysis & Risk Prediction System.
 
-    git push origin main
+- Data warehousing using Star Schema.
+- OLAP operations and analytical KPIs.
+- Interactive data visualization dashboards.
+- Machine learning-based risk analysis.
 
-done
+### Dreamy Sip
 
-```
+A responsive café website built using modern frontend technologies.
 
+[Live Demo](https://dreamysip.netlify.app)
 
+### Developer Portfolio
 
-<p align="center">
+My personal website showcasing projects, technical skills, experience, and achievements.
 
-  <i>Executing loops at the intersection of scale, UI perfection, and intelligent code.</i>
+[Visit Portfolio](https://omkedare.dev)
 
-</p>
+---
 
+## `04` — EXPERIENCE
+
+**Backend Developer Intern — RadhaKrishna Web Solutions**
+
+*May 2026 – July 2026*
+
+- Worked on backend development for an e-commerce platform.
+- Worked with PostgreSQL, Prisma, and API integration.
+- Collaborated with a development team throughout the project.
+
+---
+
+## `05` — EDUCATION
+
+**B.Tech — Computer Science & Engineering**
+
+D.Y. Patil International University, Pune
+
+---
+
+## `06` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theomkedare&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=FFFFFF" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theomkedare&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=FFFFFF" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=theomkedare&theme=transparent&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="70%" />
+
+</div>
+
+---
+
+## `07` — CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/theomkedare/theomkedare/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## `08` — CURRENTLY EXPLORING
+
+- AI Agents and Autonomous Systems
+- Machine Learning and Deep Learning
+- Scalable Backend Architectures
+- Full-Stack Application Development
+- Cloud Deployment and System Design
+
+---
+
+## `09` — CONNECT
+
+<div align="center">
+
+<a href="https://omkedare.dev">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00C9A7" />
+</a>
+<a href="https://github.com/theomkedare">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="mailto:omkedare.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:172B3A,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
